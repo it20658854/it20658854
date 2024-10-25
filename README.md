@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Janith Chathuranga</h1>
 <h3 align="center">I am a creative software engineer and UI / UX designer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it20658854&label=Profile%20views&color=0e75b6&style=flat" alt="it20658854" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it20658854" alt="it20658854" /></a> </p>
+---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=it20658854&label=Profile%20views&color=0e75b6&style=flat" alt="it20658854" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it20658854" alt="it20658854" /></a> </p>
 
 - 🔭 I’m currently research Deep learning **Tea Diseases analyser**
 
