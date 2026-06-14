@@ -142,7 +142,7 @@ Portfolio   : https://it20658854.github.io/chathuranga99.github.io/
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=it20658854&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=it20658854&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4" width="98%"/>
 </div>
 
 ---
@@ -159,7 +159,7 @@ Portfolio   : https://it20658854.github.io/chathuranga99.github.io/
 
 | 🌿 Project | 🔧 Tech | 📈 Outcome |
 |:---|:---|:---|
-| **Vanilla Plant Disease Analyzer** — Final Year Research | Python · TensorFlow · OpenCV · Deep Learning | 60% efficiency gain in disease diagnosis |
+| **Vanilla Plant Disease Analyzer** — Final Year Research | React.js · Node.js · Python · TensorFlow · OpenCV | 60% efficiency gain in disease diagnosis |
 | **Tea Leaf Disease Analyzer** | CNNs · Python · Image Processing | 92% detection accuracy · 35% pesticide reduction |
 | **Full-Stack E-Commerce Platform** | React · Node.js · Express · MySQL | 30% faster page loads · full auth + admin |
 | **Telecom Mobile App UI/UX** | Figma · Adobe XD · Protopie | 40% increase in user task efficiency |
@@ -171,6 +171,16 @@ Portfolio   : https://it20658854.github.io/chathuranga99.github.io/
 ## 📈 Contribution Graph
 
 <div align="center">
+
+<!-- Animated Snake eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/it20658854/it20658854/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/it20658854/it20658854/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/it20658854/it20658854/output/github-contribution-grid-snake.svg" width="95%"/>
+</picture>
+
+<br/>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=it20658854&bg_color=0D1117&color=2A7C6F&line=2A7C6F&point=D4A843&area=true&hide_border=true" width="95%"/>
 </div>
 
